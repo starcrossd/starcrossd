@@ -3,8 +3,6 @@
 # starcrossd
 python tools · web experiments
 
-</div>
-
 ---
 
 | project | what it is |
