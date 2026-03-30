@@ -14,9 +14,4 @@ python tools · web experiments
 | [todo](https://github.com/starcrossd/todo) | CLI to-do list manager |
 
 ---
-
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=starcrossd&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_title=true&rank_icon=github)
-
 </div>
