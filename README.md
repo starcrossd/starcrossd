@@ -7,6 +7,7 @@ python tools · web experiments
 
 | project | what it is |
 |---|---|
+|[Mondrimap](https://github.com/starcrossd/mondrimap)|CLI that converts images into ascii|
 | [blazer](https://github.com/starcrossd/blazer) | pygame study tracker with a git-style contribution grid |
 | [scholar](https://github.com/starcrossd/scholar) | CLI for logging exam results and spotting weak spots |
 | [digicard](https://digicardmaker.netlify.app) | Digital card maker that has multiple modes |
